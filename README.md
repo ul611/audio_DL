@@ -1,2 +1,2 @@
 # audio_DL
-Homeworks from DL audio course in MSU.
+Homeworks of DL audio course in MSU.
